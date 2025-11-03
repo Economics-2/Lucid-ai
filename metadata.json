@@ -1,0 +1,7 @@
+{
+  "name": "Lucid AI: Dream Journal",
+  "description": "A multi-modal dream journal that uses AI to transcribe your voice recordings, generate surrealist art from your dream's themes, provide psychological interpretations, and allow you to chat about your dream's symbols.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
